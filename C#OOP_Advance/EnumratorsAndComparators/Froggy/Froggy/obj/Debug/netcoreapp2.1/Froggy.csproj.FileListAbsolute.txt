@@ -1,0 +1,10 @@
+C:\C#OOP_Advance\EnumratorsAndComparators\Froggy\Froggy\bin\Debug\netcoreapp2.1\Froggy.deps.json
+C:\C#OOP_Advance\EnumratorsAndComparators\Froggy\Froggy\bin\Debug\netcoreapp2.1\Froggy.runtimeconfig.json
+C:\C#OOP_Advance\EnumratorsAndComparators\Froggy\Froggy\bin\Debug\netcoreapp2.1\Froggy.runtimeconfig.dev.json
+C:\C#OOP_Advance\EnumratorsAndComparators\Froggy\Froggy\bin\Debug\netcoreapp2.1\Froggy.dll
+C:\C#OOP_Advance\EnumratorsAndComparators\Froggy\Froggy\bin\Debug\netcoreapp2.1\Froggy.pdb
+C:\C#OOP_Advance\EnumratorsAndComparators\Froggy\Froggy\obj\Debug\netcoreapp2.1\Froggy.csproj.CoreCompileInputs.cache
+C:\C#OOP_Advance\EnumratorsAndComparators\Froggy\Froggy\obj\Debug\netcoreapp2.1\Froggy.AssemblyInfoInputs.cache
+C:\C#OOP_Advance\EnumratorsAndComparators\Froggy\Froggy\obj\Debug\netcoreapp2.1\Froggy.AssemblyInfo.cs
+C:\C#OOP_Advance\EnumratorsAndComparators\Froggy\Froggy\obj\Debug\netcoreapp2.1\Froggy.dll
+C:\C#OOP_Advance\EnumratorsAndComparators\Froggy\Froggy\obj\Debug\netcoreapp2.1\Froggy.pdb

@@ -1,0 +1,14 @@
+C:\SoftUni\C#_DatabaseAdvance_EntityFramework\08_WebAutomapper\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.deps.json
+C:\SoftUni\C#_DatabaseAdvance_EntityFramework\08_WebAutomapper\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.json
+C:\SoftUni\C#_DatabaseAdvance_EntityFramework\08_WebAutomapper\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.dev.json
+C:\SoftUni\C#_DatabaseAdvance_EntityFramework\08_WebAutomapper\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.dll
+C:\SoftUni\C#_DatabaseAdvance_EntityFramework\08_WebAutomapper\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.pdb
+C:\SoftUni\C#_DatabaseAdvance_EntityFramework\08_WebAutomapper\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+C:\SoftUni\C#_DatabaseAdvance_EntityFramework\08_WebAutomapper\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+C:\SoftUni\C#_DatabaseAdvance_EntityFramework\08_WebAutomapper\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csprojAssemblyReference.cache
+C:\SoftUni\C#_DatabaseAdvance_EntityFramework\08_WebAutomapper\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_DatabaseAdvance_EntityFramework\08_WebAutomapper\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfoInputs.cache
+C:\SoftUni\C#_DatabaseAdvance_EntityFramework\08_WebAutomapper\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfo.cs
+C:\SoftUni\C#_DatabaseAdvance_EntityFramework\08_WebAutomapper\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CopyComplete
+C:\SoftUni\C#_DatabaseAdvance_EntityFramework\08_WebAutomapper\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.dll
+C:\SoftUni\C#_DatabaseAdvance_EntityFramework\08_WebAutomapper\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.pdb

@@ -1,0 +1,11 @@
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.csprojAssemblyReference.cache
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.csproj.CoreCompileInputs.cache
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Tests.ArrayList.dll
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Tests.ArrayList.pdb
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.exe
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.pdb
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.exe.config
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.csproj.CopyComplete
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.dll
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.pdb

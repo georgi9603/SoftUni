@@ -1,0 +1,10 @@
+C:\C#_DatabaseAdvance_EntityFramework\EF_Introduction\SoftUni\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.deps.json
+C:\C#_DatabaseAdvance_EntityFramework\EF_Introduction\SoftUni\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.json
+C:\C#_DatabaseAdvance_EntityFramework\EF_Introduction\SoftUni\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.dev.json
+C:\C#_DatabaseAdvance_EntityFramework\EF_Introduction\SoftUni\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.dll
+C:\C#_DatabaseAdvance_EntityFramework\EF_Introduction\SoftUni\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.csproj.CoreCompileInputs.cache
+C:\C#_DatabaseAdvance_EntityFramework\EF_Introduction\SoftUni\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfoInputs.cache
+C:\C#_DatabaseAdvance_EntityFramework\EF_Introduction\SoftUni\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfo.cs
+C:\C#_DatabaseAdvance_EntityFramework\EF_Introduction\SoftUni\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.pdb
+C:\C#_DatabaseAdvance_EntityFramework\EF_Introduction\SoftUni\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.dll
+C:\C#_DatabaseAdvance_EntityFramework\EF_Introduction\SoftUni\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.pdb

@@ -1,0 +1,11 @@
+C:\C#OOP_Advance\Reflection_Exercises\ex_08_CustomAttributes\CustomAttributes\CustomAttributes\bin\Debug\netcoreapp2.1\CustomAttributes.deps.json
+C:\C#OOP_Advance\Reflection_Exercises\ex_08_CustomAttributes\CustomAttributes\CustomAttributes\bin\Debug\netcoreapp2.1\CustomAttributes.runtimeconfig.json
+C:\C#OOP_Advance\Reflection_Exercises\ex_08_CustomAttributes\CustomAttributes\CustomAttributes\bin\Debug\netcoreapp2.1\CustomAttributes.runtimeconfig.dev.json
+C:\C#OOP_Advance\Reflection_Exercises\ex_08_CustomAttributes\CustomAttributes\CustomAttributes\bin\Debug\netcoreapp2.1\CustomAttributes.dll
+C:\C#OOP_Advance\Reflection_Exercises\ex_08_CustomAttributes\CustomAttributes\CustomAttributes\bin\Debug\netcoreapp2.1\CustomAttributes.pdb
+C:\C#OOP_Advance\Reflection_Exercises\ex_08_CustomAttributes\CustomAttributes\CustomAttributes\obj\Debug\netcoreapp2.1\CustomAttributes.csprojAssemblyReference.cache
+C:\C#OOP_Advance\Reflection_Exercises\ex_08_CustomAttributes\CustomAttributes\CustomAttributes\obj\Debug\netcoreapp2.1\CustomAttributes.csproj.CoreCompileInputs.cache
+C:\C#OOP_Advance\Reflection_Exercises\ex_08_CustomAttributes\CustomAttributes\CustomAttributes\obj\Debug\netcoreapp2.1\CustomAttributes.AssemblyInfoInputs.cache
+C:\C#OOP_Advance\Reflection_Exercises\ex_08_CustomAttributes\CustomAttributes\CustomAttributes\obj\Debug\netcoreapp2.1\CustomAttributes.AssemblyInfo.cs
+C:\C#OOP_Advance\Reflection_Exercises\ex_08_CustomAttributes\CustomAttributes\CustomAttributes\obj\Debug\netcoreapp2.1\CustomAttributes.dll
+C:\C#OOP_Advance\Reflection_Exercises\ex_08_CustomAttributes\CustomAttributes\CustomAttributes\obj\Debug\netcoreapp2.1\CustomAttributes.pdb

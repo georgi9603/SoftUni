@@ -1,0 +1,11 @@
+C:\C#OOP_Advance\EnumratorsAndComparators\Strategy Pattern\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\C#OOP_Advance\EnumratorsAndComparators\Strategy Pattern\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.AssemblyInfoInputs.cache
+C:\C#OOP_Advance\EnumratorsAndComparators\Strategy Pattern\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.AssemblyInfo.cs
+C:\C#OOP_Advance\EnumratorsAndComparators\Strategy Pattern\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.deps.json
+C:\C#OOP_Advance\EnumratorsAndComparators\Strategy Pattern\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.runtimeconfig.json
+C:\C#OOP_Advance\EnumratorsAndComparators\Strategy Pattern\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.runtimeconfig.dev.json
+C:\C#OOP_Advance\EnumratorsAndComparators\Strategy Pattern\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.dll
+C:\C#OOP_Advance\EnumratorsAndComparators\Strategy Pattern\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.pdb
+C:\C#OOP_Advance\EnumratorsAndComparators\Strategy Pattern\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.csprojAssemblyReference.cache
+C:\C#OOP_Advance\EnumratorsAndComparators\Strategy Pattern\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.dll
+C:\C#OOP_Advance\EnumratorsAndComparators\Strategy Pattern\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.pdb

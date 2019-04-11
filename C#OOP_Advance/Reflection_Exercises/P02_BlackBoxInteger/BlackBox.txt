@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: P02_BlackBoxInteger, Configuration: Debug Any CPU ------
+1>P02_BlackBoxInteger -> C:\C#OOP_Advance\Reflection_Exercises\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

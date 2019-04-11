@@ -1,0 +1,11 @@
+C:\C#OOP_Advance\EnumratorsAndComparators\LinkedListStack\LinkedListStack\bin\Debug\netcoreapp2.1\LinkedListStack.deps.json
+C:\C#OOP_Advance\EnumratorsAndComparators\LinkedListStack\LinkedListStack\bin\Debug\netcoreapp2.1\LinkedListStack.runtimeconfig.json
+C:\C#OOP_Advance\EnumratorsAndComparators\LinkedListStack\LinkedListStack\bin\Debug\netcoreapp2.1\LinkedListStack.runtimeconfig.dev.json
+C:\C#OOP_Advance\EnumratorsAndComparators\LinkedListStack\LinkedListStack\bin\Debug\netcoreapp2.1\LinkedListStack.dll
+C:\C#OOP_Advance\EnumratorsAndComparators\LinkedListStack\LinkedListStack\bin\Debug\netcoreapp2.1\LinkedListStack.pdb
+C:\C#OOP_Advance\EnumratorsAndComparators\LinkedListStack\LinkedListStack\obj\Debug\netcoreapp2.1\LinkedListStack.csprojAssemblyReference.cache
+C:\C#OOP_Advance\EnumratorsAndComparators\LinkedListStack\LinkedListStack\obj\Debug\netcoreapp2.1\LinkedListStack.csproj.CoreCompileInputs.cache
+C:\C#OOP_Advance\EnumratorsAndComparators\LinkedListStack\LinkedListStack\obj\Debug\netcoreapp2.1\LinkedListStack.AssemblyInfoInputs.cache
+C:\C#OOP_Advance\EnumratorsAndComparators\LinkedListStack\LinkedListStack\obj\Debug\netcoreapp2.1\LinkedListStack.AssemblyInfo.cs
+C:\C#OOP_Advance\EnumratorsAndComparators\LinkedListStack\LinkedListStack\obj\Debug\netcoreapp2.1\LinkedListStack.dll
+C:\C#OOP_Advance\EnumratorsAndComparators\LinkedListStack\LinkedListStack\obj\Debug\netcoreapp2.1\LinkedListStack.pdb

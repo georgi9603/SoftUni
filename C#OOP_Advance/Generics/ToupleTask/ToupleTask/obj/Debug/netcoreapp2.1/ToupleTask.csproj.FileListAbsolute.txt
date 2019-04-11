@@ -1,0 +1,10 @@
+C:\C#OOP_Advance\Generics\ToupleTask\ToupleTask\bin\Debug\netcoreapp2.1\ToupleTask.deps.json
+C:\C#OOP_Advance\Generics\ToupleTask\ToupleTask\bin\Debug\netcoreapp2.1\ToupleTask.runtimeconfig.json
+C:\C#OOP_Advance\Generics\ToupleTask\ToupleTask\bin\Debug\netcoreapp2.1\ToupleTask.runtimeconfig.dev.json
+C:\C#OOP_Advance\Generics\ToupleTask\ToupleTask\bin\Debug\netcoreapp2.1\ToupleTask.dll
+C:\C#OOP_Advance\Generics\ToupleTask\ToupleTask\bin\Debug\netcoreapp2.1\ToupleTask.pdb
+C:\C#OOP_Advance\Generics\ToupleTask\ToupleTask\obj\Debug\netcoreapp2.1\ToupleTask.csproj.CoreCompileInputs.cache
+C:\C#OOP_Advance\Generics\ToupleTask\ToupleTask\obj\Debug\netcoreapp2.1\ToupleTask.AssemblyInfoInputs.cache
+C:\C#OOP_Advance\Generics\ToupleTask\ToupleTask\obj\Debug\netcoreapp2.1\ToupleTask.AssemblyInfo.cs
+C:\C#OOP_Advance\Generics\ToupleTask\ToupleTask\obj\Debug\netcoreapp2.1\ToupleTask.dll
+C:\C#OOP_Advance\Generics\ToupleTask\ToupleTask\obj\Debug\netcoreapp2.1\ToupleTask.pdb

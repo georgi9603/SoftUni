@@ -1,0 +1,14 @@
+C:\C#_DatabaseAdvance_EntityFramework\ORM_Fundamentals\Mini_ORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.deps.json
+C:\C#_DatabaseAdvance_EntityFramework\ORM_Fundamentals\Mini_ORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.runtimeconfig.json
+C:\C#_DatabaseAdvance_EntityFramework\ORM_Fundamentals\Mini_ORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.runtimeconfig.dev.json
+C:\C#_DatabaseAdvance_EntityFramework\ORM_Fundamentals\Mini_ORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.dll
+C:\C#_DatabaseAdvance_EntityFramework\ORM_Fundamentals\Mini_ORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.pdb
+C:\C#_DatabaseAdvance_EntityFramework\ORM_Fundamentals\Mini_ORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.dll
+C:\C#_DatabaseAdvance_EntityFramework\ORM_Fundamentals\Mini_ORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.pdb
+C:\C#_DatabaseAdvance_EntityFramework\ORM_Fundamentals\Mini_ORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.csprojAssemblyReference.cache
+C:\C#_DatabaseAdvance_EntityFramework\ORM_Fundamentals\Mini_ORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.csproj.CoreCompileInputs.cache
+C:\C#_DatabaseAdvance_EntityFramework\ORM_Fundamentals\Mini_ORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.AssemblyInfoInputs.cache
+C:\C#_DatabaseAdvance_EntityFramework\ORM_Fundamentals\Mini_ORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.AssemblyInfo.cs
+C:\C#_DatabaseAdvance_EntityFramework\ORM_Fundamentals\Mini_ORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.csproj.CopyComplete
+C:\C#_DatabaseAdvance_EntityFramework\ORM_Fundamentals\Mini_ORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.dll
+C:\C#_DatabaseAdvance_EntityFramework\ORM_Fundamentals\Mini_ORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.pdb

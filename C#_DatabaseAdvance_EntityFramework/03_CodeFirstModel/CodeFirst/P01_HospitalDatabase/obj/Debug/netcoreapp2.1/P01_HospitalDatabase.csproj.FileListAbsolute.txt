@@ -1,0 +1,7 @@
+C:\C#_DatabaseAdvance_EntityFramework\CodeFirstModel\CodeFirst\P01_HospitalDatabase\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.deps.json
+C:\C#_DatabaseAdvance_EntityFramework\CodeFirstModel\CodeFirst\P01_HospitalDatabase\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.runtimeconfig.json
+C:\C#_DatabaseAdvance_EntityFramework\CodeFirstModel\CodeFirst\P01_HospitalDatabase\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.runtimeconfig.dev.json
+C:\C#_DatabaseAdvance_EntityFramework\CodeFirstModel\CodeFirst\P01_HospitalDatabase\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.dll
+C:\C#_DatabaseAdvance_EntityFramework\CodeFirstModel\CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.csproj.CoreCompileInputs.cache
+C:\C#_DatabaseAdvance_EntityFramework\CodeFirstModel\CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.AssemblyInfoInputs.cache
+C:\C#_DatabaseAdvance_EntityFramework\CodeFirstModel\CodeFirst\P01_HospitalDatabase\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.AssemblyInfo.cs

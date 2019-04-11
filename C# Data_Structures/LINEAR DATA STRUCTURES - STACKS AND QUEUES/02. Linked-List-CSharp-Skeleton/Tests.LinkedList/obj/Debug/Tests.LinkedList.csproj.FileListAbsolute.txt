@@ -1,0 +1,11 @@
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - STACKS AND QUEUES\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\Tests.LinkedList.dll
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - STACKS AND QUEUES\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\Tests.LinkedList.pdb
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - STACKS AND QUEUES\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\LinkedList.exe
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - STACKS AND QUEUES\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - STACKS AND QUEUES\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\LinkedList.pdb
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - STACKS AND QUEUES\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\LinkedList.exe.config
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - STACKS AND QUEUES\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\obj\Debug\Tests.LinkedList.csprojAssemblyReference.cache
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - STACKS AND QUEUES\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\obj\Debug\Tests.LinkedList.csproj.CoreCompileInputs.cache
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - STACKS AND QUEUES\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\obj\Debug\Tests.LinkedList.csproj.CopyComplete
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - STACKS AND QUEUES\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\obj\Debug\Tests.LinkedList.dll
+C:\C# Data_Structures\LINEAR DATA STRUCTURES - STACKS AND QUEUES\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\obj\Debug\Tests.LinkedList.pdb

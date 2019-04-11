@@ -1,0 +1,10 @@
+C:\C#OOP_Advance\ExamPreps\ExamPrep_2\Travel\obj\Debug\netcoreapp2.0\Travel.csproj.CoreCompileInputs.cache
+C:\C#OOP_Advance\ExamPreps\ExamPrep_2\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfoInputs.cache
+C:\C#OOP_Advance\ExamPreps\ExamPrep_2\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfo.cs
+C:\C#OOP_Advance\ExamPreps\ExamPrep_2\Travel\bin\Debug\netcoreapp2.0\Travel.deps.json
+C:\C#OOP_Advance\ExamPreps\ExamPrep_2\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.json
+C:\C#OOP_Advance\ExamPreps\ExamPrep_2\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.dev.json
+C:\C#OOP_Advance\ExamPreps\ExamPrep_2\Travel\bin\Debug\netcoreapp2.0\Travel.dll
+C:\C#OOP_Advance\ExamPreps\ExamPrep_2\Travel\bin\Debug\netcoreapp2.0\Travel.pdb
+C:\C#OOP_Advance\ExamPreps\ExamPrep_2\Travel\obj\Debug\netcoreapp2.0\Travel.dll
+C:\C#OOP_Advance\ExamPreps\ExamPrep_2\Travel\obj\Debug\netcoreapp2.0\Travel.pdb

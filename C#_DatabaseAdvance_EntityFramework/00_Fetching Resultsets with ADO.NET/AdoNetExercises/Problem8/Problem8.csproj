@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AdoNetExercises\AdoNetExercises.csproj" />
+    <ProjectReference Include="..\Problem2\Problem2.csproj" />
+    <ProjectReference Include="..\Problem3\Problem3.csproj" />
+    <ProjectReference Include="..\Problem4\Problem4.csproj" />
+    <ProjectReference Include="..\Problem5\Problem5.csproj" />
+    <ProjectReference Include="..\Problem9\Problem9.csproj" />
+  </ItemGroup>
+
+</Project>

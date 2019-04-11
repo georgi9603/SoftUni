@@ -1,0 +1,11 @@
+C:\C#OOP_Advance\UnitTests_Exercises\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.deps.json
+C:\C#OOP_Advance\UnitTests_Exercises\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.runtimeconfig.json
+C:\C#OOP_Advance\UnitTests_Exercises\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.runtimeconfig.dev.json
+C:\C#OOP_Advance\UnitTests_Exercises\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.dll
+C:\C#OOP_Advance\UnitTests_Exercises\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.pdb
+C:\C#OOP_Advance\UnitTests_Exercises\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.csprojAssemblyReference.cache
+C:\C#OOP_Advance\UnitTests_Exercises\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.csproj.CoreCompileInputs.cache
+C:\C#OOP_Advance\UnitTests_Exercises\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.AssemblyInfoInputs.cache
+C:\C#OOP_Advance\UnitTests_Exercises\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.AssemblyInfo.cs
+C:\C#OOP_Advance\UnitTests_Exercises\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.dll
+C:\C#OOP_Advance\UnitTests_Exercises\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.pdb

@@ -1,0 +1,11 @@
+C:\C#OOP_Advance\EnumratorsAndComparators\ListyEnumerator\ListyEnumerator\bin\Debug\netcoreapp2.1\ListyEnumerator.deps.json
+C:\C#OOP_Advance\EnumratorsAndComparators\ListyEnumerator\ListyEnumerator\bin\Debug\netcoreapp2.1\ListyEnumerator.runtimeconfig.json
+C:\C#OOP_Advance\EnumratorsAndComparators\ListyEnumerator\ListyEnumerator\bin\Debug\netcoreapp2.1\ListyEnumerator.runtimeconfig.dev.json
+C:\C#OOP_Advance\EnumratorsAndComparators\ListyEnumerator\ListyEnumerator\bin\Debug\netcoreapp2.1\ListyEnumerator.dll
+C:\C#OOP_Advance\EnumratorsAndComparators\ListyEnumerator\ListyEnumerator\bin\Debug\netcoreapp2.1\ListyEnumerator.pdb
+C:\C#OOP_Advance\EnumratorsAndComparators\ListyEnumerator\ListyEnumerator\obj\Debug\netcoreapp2.1\ListyEnumerator.csprojAssemblyReference.cache
+C:\C#OOP_Advance\EnumratorsAndComparators\ListyEnumerator\ListyEnumerator\obj\Debug\netcoreapp2.1\ListyEnumerator.csproj.CoreCompileInputs.cache
+C:\C#OOP_Advance\EnumratorsAndComparators\ListyEnumerator\ListyEnumerator\obj\Debug\netcoreapp2.1\ListyEnumerator.AssemblyInfoInputs.cache
+C:\C#OOP_Advance\EnumratorsAndComparators\ListyEnumerator\ListyEnumerator\obj\Debug\netcoreapp2.1\ListyEnumerator.AssemblyInfo.cs
+C:\C#OOP_Advance\EnumratorsAndComparators\ListyEnumerator\ListyEnumerator\obj\Debug\netcoreapp2.1\ListyEnumerator.dll
+C:\C#OOP_Advance\EnumratorsAndComparators\ListyEnumerator\ListyEnumerator\obj\Debug\netcoreapp2.1\ListyEnumerator.pdb
